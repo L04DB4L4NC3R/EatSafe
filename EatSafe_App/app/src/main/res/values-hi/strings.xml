@@ -1,0 +1,38 @@
+<resources>
+    <string name="app_name">ईटसेफ</string>
+    <string name="scan">स्कैन</string>
+    <string name="aadhar_text">प्रारंभ करने के लिए अपने आधार को स्कैन करें</string>
+    <string name="name">नाम</string>
+    <string name="dob">जन्म की तारीख</string>
+    <string name="gender">लिंग</string>
+    <string name="state">राज्य</string>
+    <string name="submit">जमा करें</string>
+    <string name="bt_text">ब्लूटूथ के माध्यम से अपने डिवाइस को कनेक्ट करें</string>
+    <string name="calculate">गणना</string>
+    <string name="information_gathered">जानकारी एकत्र की गई</string>
+    <string name="temperature">तापमान</string>
+    <string name="humidity">नमी</string>
+    <string name="pressure">दबाव</string>
+    <string name="soil_moisture">मिटटी की नमी</string>
+    <string name="air_quality">हवा की गुणवत्ता</string>
+    <string name="get_result">परिणाम प्राप्त करें</string>
+    <string name="owner_aadhar_text">नए मालिक के आधार कार्ड को स्कैन करें</string>
+    <string name="result">परिणाम</string>
+    <string name="quality_of_crop">फसल की गुणवत्ता</string>
+    <string name="done">ठीक</string>
+    <string name="choose_your_option">अपना विकल्प चुनें</string>
+    <string name="check_soil_fertility">मृदा उर्वरता की जांच करें</string>
+    <string name="check_quality">गुणवत्ता की जांच करें</string>
+    <string name="view_history">इतिहास देखे</string>
+    <string name="no_support">ब्लूटूथ का समर्थन नहीं करता है</string>
+    <string name="gathering_result">परिणाम इकट्ठा करना ...</string>
+    <string name="soli_is">मृदा है: </string>
+    <string name="ok">ठीक</string>
+
+    <string name="prsnl_info">व्यक्तिगत जानकारी</string>
+    <string name="soil_info">मृदा सूचना</string>
+    <string name="qlty_info">गुणवत्ता की जानकारी</string>
+    <string name="fertile">उपजाऊ</string>
+    <string-array name="infertile">अनुपजाऊ</string-array>
+    <string name="menu">मेन्यू</string>
+</resources>

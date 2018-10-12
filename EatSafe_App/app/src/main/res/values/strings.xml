@@ -1,0 +1,37 @@
+<resources>
+    <string name="app_name">EatSafe</string>
+    <string name="scan">Scan</string>
+    <string name="aadhar_text">Scan your Aadhar to initialize</string>
+    <string name="name">Name</string>
+    <string name="dob">DOB</string>
+    <string name="gender">Gender</string>
+    <string name="state">State</string>
+    <string name="submit">SUBMIT</string>
+    <string name="bt_text">Connect your device via bluetooth</string>
+    <string name="calculate">Calculate</string>
+    <string name="information_gathered">Information Gathered</string>
+    <string name="temperature">Temperature</string>
+    <string name="humidity">Humidity</string>
+    <string name="pressure">Pressure</string>
+    <string name="soil_moisture">Soil Moisture</string>
+    <string name="air_quality">Air Quality</string>
+    <string name="get_result">Get Result</string>
+    <string name="owner_aadhar_text">Scan new owner\'s Aadhar Card</string>
+    <string name="result">Result</string>
+    <string name="quality_of_crop">Quality of crop</string>
+    <string name="done">Done</string>
+    <string name="choose_your_option">Choose your option</string>
+    <string name="check_soil_fertility">Check Soil Fertility</string>
+    <string name="check_quality">Check Quality</string>
+    <string name="view_history">View History</string>
+    <string name="no_support">Doesn\'t support bluetooth</string>
+    <string name="gathering_result">Gathering Result...</string>
+    <string name="soli_is">Soil is : </string>
+    <string name="ok">OK</string>
+    <string name="prsnl_info">Personal Information</string>
+    <string name="soil_info">Soil Information</string>
+    <string name="qlty_info">Quality Information</string>
+    <string name="fertile">Fertile</string>
+    <string-array name="infertile">Infertile</string-array>
+    <string name="menu">Menu</string>
+</resources>
