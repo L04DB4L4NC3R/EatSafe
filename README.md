@@ -42,22 +42,22 @@ ___
 
 <br/>
 
-1. Users login with Aadhar card
+* Users login with Aadhar card
 
-2. Farmer tests his soil (if tier 5 or 6 farmer then no need for soil testing hardware) ,
+* Farmer tests his soil (if tier 5 or 6 farmer then no need for soil testing hardware) ,
  genesis block created in the blockchain if quality is good
 
-3. Farmer goes to the Local market (vendor) 
+* Farmer goes to the Local market (vendor) 
 
-4. Vendor scans farmer's aadhar card
+* Vendor scans farmer's aadhar card
 
-5. Vendor connects to the quality testing hardware to his phone using bluetooth
+* Vendor connects to the quality testing hardware to his phone using bluetooth
 
-6. Ownership is transferred and block is updated if quality is good
+* Ownership is transferred and block is updated if quality is good
 
-7. From vendor to whole seller, from whole seller to the supermarkets, repeat steps 4 to 6
+* From vendor to whole seller, from whole seller to the supermarkets, repeat steps 4 to 6
 
-8. User gets quality tested goods and can visualize the quality during each exchange
+* User gets quality tested goods and can visualize the quality during each exchange
 
 
 
