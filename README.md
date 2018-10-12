@@ -31,6 +31,7 @@ ___
 - [X] Food supply chain that’s un-hackable and un-corruptable 
 - [X] Health standards that learn
 - [X] Food and soil indexing that’s visualizable
+- [X] Multilingual support
 
 
 <br/>
