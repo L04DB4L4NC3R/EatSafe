@@ -10,12 +10,6 @@ dht DHT;
 #define airquality_sensor_pin 0
 #define gas_sensor_pin 1
 #define VAL_PROBE 2 // Analog pin 3
-//DHT dht(DHTPIN,DHTTYPE);
-String apiKey = "N1AUP12LQMYYVD0D"; // replace with your 
-
-String channelId= "431218" ;
-String ssid="123"; // Wifi network SSID
-String password ="12345678"; // Wifi network password
 boolean DEBUG=true;
 void showResponse(int waitTime)
 {
