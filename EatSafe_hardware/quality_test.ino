@@ -10,7 +10,6 @@ dht DHT;
 #define airquality_sensor_pin 0
 #define gas_sensor_pin 1
 #define VAL_PROBE 2 // Analog pin 3
-boolean DEBUG=true;
 void showResponse(int waitTime)
 {
 long t=millis();
